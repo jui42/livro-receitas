@@ -1,15 +1,29 @@
-# ó o livrão ae
+# Testando h1
 
-larí lará lará lá lá
+## Testando h2
 
-_larí lará lará lá lá_
+### Testando h3
 
-**larí lará lará lá lá**
+#### Testando h4
 
-.
+##### Testando h5
 
-:call_me_hand:
+Parágrafo comum.
 
-- ís ta bulá bá
-- amauê Ê
+Lista 👇 
+
+- _itálico_ e **negrito**
+
+-  **negrito** e _itálico
+
+  - TAB
+  - TAB
+
+  2x enter
+
+- 2x enter
+
+2x enter
+
+:smile: _I'm so cringe_ :upside_down_face: 
 
